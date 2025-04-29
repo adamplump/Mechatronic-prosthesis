@@ -1,4 +1,4 @@
-Project of 3D printing prosthesis.
+<h3>Project of 3D printing prosthesis.</h3>
 <br>
 This project was created during studiy on Gdańsk University of Technology.
 
