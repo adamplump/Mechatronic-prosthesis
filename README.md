@@ -15,7 +15,7 @@ This project was created during study on Gdańsk University of Technology.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/defa985e-b3f1-445f-a31e-01dcb5595f58" alt="Fig. 2: 3D model of the entire prosthesis" width="500"/>
   <br>
-  <em>Fig. 2: 3D model of whole prosthesis" </em>
+  <em>Fig. 2: 3D model of whole prosthesis </em>
 </p>
 
 | ![Fig. 3: 3D model of the entire prosthesis - front view](https://github.com/user-attachments/assets/1732cac1-1465-43b7-b2ba-81a86b69e3f2) | ![Fig. 4: 3D model of the entire prosthesis - back view](https://github.com/user-attachments/assets/363d5cd3-2260-4699-bd3d-39207c46422d) |
