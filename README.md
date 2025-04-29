@@ -40,12 +40,17 @@ The fingers are bent during the movement of actuators mounted in the hand, conne
 
 <br>
 Safety system based on the use of:
+<br>
 a) Torsion springs - to prevent fingers from bending in the opposite direction.
+<br>
 b) Cable tension - also eliminates uncontrolled bending of the fingers.
+<br>
 c) TPE material for finger pads - a material resistant to fuels, lubricants, hydrolysis, UV rays and other atmospheric factors. Additionally, the material has anti-slip properties.
-d) Measurement of the force exerted on the object during gripping - measured by the RA9P pressure sensor and displayed on the LCD screen
+<br>
+d) Measurement of the force exerted on the object during gripping - measured by the RA9P pressure sensor and displayed on the LCD screen.
+<br>
 e) Motor restrictions - the ability to program the motors to deflect only by a certain angle.
-
+<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c107d282-02e1-4810-ae8b-97215977d5fe" alt="Fig. 10: Concept of sensor location on the prosthetic fingers" width="500"/>
   <br>
