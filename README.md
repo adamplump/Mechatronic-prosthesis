@@ -7,7 +7,7 @@ This project was created during study on Gdańsk University of Technology.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3eeb02d8-85c6-4625-a67d-8c9f3cadc35a" alt="Fig. 1: Concept of controlling" width="500"/>
   <br>
-  <em>Fig. 1: Concept of controlling </em>
+  <em>Fig. 1: Concept of controlling system </em>
 </p>
 
 <h3>2. Design of the device.</h3>
