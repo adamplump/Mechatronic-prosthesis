@@ -1,4 +1,4 @@
-<h3>Project of 3D printing prosthesis.</h3>
+<h3>Project of 3D printing prosthesis 2021/2022.</h3>
 <br>
 This project was created during study on Gdańsk University of Technology.
 
